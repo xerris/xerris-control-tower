@@ -1,12 +1,11 @@
 # xerris-control-tower
 
-Xerris has put together the series of steps required to deploy the control tower in AWS. There are multiple moving parts while the deployment hence we cannot automate the entire deployment process. We are also in the process of automating / creating smallers modules where applicable.
+Xerris has put together the series of steps required to deploy the control tower in AWS. There are multiple moving parts hence we cannot automate the entire deployment process.
+The benefits of deploying the control tower are : https://aws.amazon.com/controltower/features/
 
-There are 2 main steps when you are in process to deploy the control tower
-
-1. To deploy the core control tower (foundation) alongwith the security controls (This document will help to achieve this)
+There are 2 main steps when you plan to deploy control tower :
+1. To deploy the core control tower which will give you the landing zone alongwith the audit and logging accounts enabled. (This document will help to achieve this)
 2. To create accounts in the control tower accross environments (This is automated, follow https://github.com/xerris/xerris-terraform-control-tower-aft)
-
 
 ## Xerris Control Tower Setup Guide   >  https://bit.ly/3GWr1NG
 

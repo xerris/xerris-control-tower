@@ -9,7 +9,7 @@ There are 2 main steps when you plan to deploy control tower :
 1. To deploy the core control tower which will give you the landing zone along with the audit and logging accounts enabled. (This document will help to achieve this)
 2. To create accounts in the control tower across environments (This is automated, follow https://github.com/xerris/xerris-terraform-control-tower-aft)
 
-## Xerris Control Tower Setup Guide   >  https://bit.ly/3GWr1NG
+## Xerris Control Tower Setup Guide   >  https://docs.google.com/document/d/1lwDLt1rWQoQFuA-3WfLiqLUTMT1G8NG_SgEZT6oyjHk
 
 **Usage:**
 
